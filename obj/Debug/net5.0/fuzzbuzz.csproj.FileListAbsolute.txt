@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.exe
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.deps.json
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.dll
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\ref\fuzzbuzz.dll
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\bin\Debug\net5.0\fuzzbuzz.pdb
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.dll
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\ref\fuzzbuzz.dll
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.pdb
+C:\Users\matth\Class_work\Intro_programming\fuzzbuzz\obj\Debug\net5.0\fuzzbuzz.genruntimeconfig.cache
